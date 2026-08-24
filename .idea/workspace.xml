@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c0b1d12a-f311-40bc-b939-a9c899f57572" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/AddTwoNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AreaOfCircle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AverageOfThreeNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CelsiusToFahrenheit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KilometersToMiles.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PerimeterOfRectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PowerCalculation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimpleInterest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VolumeOfCylinder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Welcome.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "surbhishakya167-tech"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/surbhishakya167-tech/BridgelabzTraining2Y.git",
+    "accountId": "e7312386-3af9-411a-9eda-423b3c7150e1"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="3I86iLZGBw2bxO5tK9eOklGc0Cy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "assignment",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/BridgelabzTraining2Y"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0b1d12a-f311-40bc-b939-a9c899f57572" name="Changes" comment="" />
+      <created>1787133974641</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1787133974641</updated>
+    </task>
+    <servers />
+  </component>
+</project>
